@@ -1,7 +1,9 @@
 <h1   align="center">
 2a ENSEA : Option IA 
 </h1>
-Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA students can use to learn and apply various AI techniques and concepts.
+
+
+Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn and apply various AI techniques and concepts.
 
 # [TP1 : Introduction to AI ](TP1)
 
