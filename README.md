@@ -6,7 +6,9 @@ Welcome to the AI Labs repository.
 
 ## Overview
 
-In this lab, you'll learn about the basics of artificial intelligence and two key techniques: the training of an inverting neuron and Neural Style Transfer. 
+In this lab, you'll learn about the basics of artificial intelligence with the exploration of two techniques: 
+  - Training an inverting Neuron 
+  - Neural Style Transfer. 
 
 # TP2 : 
 
