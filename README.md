@@ -23,3 +23,4 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
 - In order to open any .ipynb notebook, change the url by replacing github to githubtocolab
 - Complete the exercises and experiments with the provided code to gain a better understanding of AI and the techniques covered in the lab.
 - Don't forget to activate a GPU on Google Colab and  to save your notebook in your Drive Repo.
+- You must complete the preparation before coming to the lab.
