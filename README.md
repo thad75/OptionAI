@@ -1,6 +1,6 @@
-# 2a ENSEA : Option IA
+# 2a ENSEA : Option IA 
 
-Welcome to the AI Labs repository.
+Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA students can use to learn and apply various AI techniques and concepts.
 
 # TP1 : Introduction to AI
 
@@ -10,13 +10,13 @@ In this lab, you'll learn about the basics of artificial intelligence with the e
   - Training an inverting Neuron 
   - Neural Style Transfer. 
 
-# TP2 : 
+# TP2 : Coming Soon
 
-# TP3 : 
+# TP3 : Coming Soon
 
-# TP4 :
+# TP4 : Coming Soon
 
-# TP5 : 
+# TP5 : Coming Soon
 
 # Instructions
 
