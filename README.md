@@ -6,7 +6,7 @@ Welcome to the AI Labs repository. This repository contains all labs and project
 
 ## Overview
 
-In this lab, you'll learn about the basics of artificial intelligence with the exploration of two techniques: 
+In this lab, you will be introduced to the world of Deep Learning with the exploration of two techniques: 
   - Training an inverting Neuron 
   - Neural Style Transfer. 
 
@@ -21,6 +21,5 @@ In this lab, you'll learn about the basics of artificial intelligence with the e
 # Instructions
 
 - In order to open any .ipynb notebook, change the url by replacing github to githubtocolab
-- Complete the exercises and experiment with the provided code to gain a better understanding of AI and the techniques covered in the lab.
-- Don't forget to activate a GPU on Google Colab.
-- Don't forget to save your notebook in your Drive Repo.
+- Complete the exercises and experiments with the provided code to gain a better understanding of AI and the techniques covered in the lab.
+- Don't forget to activate a GPU on Google Colab and  to save your notebook in your Drive Repo.
