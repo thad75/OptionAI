@@ -12,6 +12,8 @@ Welcome to the AI Labs repository. This repository contains all labs and project
 In this lab, you will be introduced to the world of Deep Learning with the exploration of two techniques: 
   - Training an inverting Neuron 
   - Neural Style Transfer. 
+  
+# [TDm1 : Spotipy API Exploration](TDm/NLP)
 
 # TP2 : Coming Soon
 
