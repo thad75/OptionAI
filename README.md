@@ -13,7 +13,7 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   - Training an inverting Neuron 
   - Neural Style Transfer. 
   
-# [TDm1 : Spotipy API Exploration](TDm/NLP)
+# [TDm1 : Spotify Python API Exploration](TDm/NLP)
 
 In this lab, you will be explorating the Spotify Python API, Spotipy
 
