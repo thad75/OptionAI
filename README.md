@@ -15,7 +15,7 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   
 # [TDm1 : Spotify Python API Exploration](TDm/NLP)
 
-In this lab, you will be explorating the Spotify Python API, Spotipy
+In this lab, you will be explorating the Spotify Python API: Spotipy
 
 # TP2 : Coming Soon
 
