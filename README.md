@@ -17,7 +17,9 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
 
 In this lab, you will be explorating the Spotify Python API: Spotipy
 
-# TP2 : Coming Soon
+# TP2 : Sentiment Analysis
+
+In this lab, you will be performing Sentiment Analysis using two types of Neural Nets
 
 # TP3 : Coming Soon
 
