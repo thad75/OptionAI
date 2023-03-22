@@ -3,7 +3,7 @@
 </h1>
 
 
-Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn and apply various AI techniques and concepts.
+Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts.
 
 # [TP1 : Introduction to AI ](TP1)
 
@@ -19,7 +19,9 @@ In this lab, you will be explorating the Spotify Python API: Spotipy
 
 # [TP2 : Sentiment Analysis](TP2)
 
-In this lab, you will be performing Sentiment Analysis using two types of Neural Nets
+In this lab, you will be performing Sentiment Analysis using two types of Neural Nets:
+- Feed Forward Networks
+- Convolutional Neural Networks
 
 # TP3 : Coming Soon
 
