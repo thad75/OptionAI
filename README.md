@@ -8,7 +8,7 @@
 </div> 
 
 
-Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts.
+Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts. Don't hesitate to star the repository.
 
 # [TP1 : Introduction to AI ](TP1)
 
