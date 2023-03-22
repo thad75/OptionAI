@@ -20,9 +20,13 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   
 # [TDm1 : Spotify Python API Exploration](TDm/NLP)
 
+## Overview
+
 In this lab, you will be explorating the Spotify Python API: Spotipy
 
 # [TP2 : Sentiment Analysis](TP2)
+
+## Overview
 
 In this lab, you will be performing Sentiment Analysis using two types of Neural Nets:
 - Feed Forward Networks
@@ -30,9 +34,15 @@ In this lab, you will be performing Sentiment Analysis using two types of Neural
 
 # TP3 : Coming Soon
 
+## Overview
+
 # TP4 : Coming Soon
 
+## Overview
+
 # TP5 : Coming Soon
+
+## Overview
 
 # Instructions
 
