@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/license/thad75/OptionAI" alt="License Badge"/>
   <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>
 </div> 
+
+
 Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts.
 
 # [TP1 : Introduction to AI ](TP1)
