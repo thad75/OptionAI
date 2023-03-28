@@ -32,6 +32,12 @@ In this lab, you will be performing Sentiment Analysis using two types of Neural
 - Feed Forward Networks
 - Convolutional Neural Networks
 
+# [TDm2 : Recommendation System: an Introduction](TDm/SR)
+
+## Overview
+
+In this lab, you will be explorating some technics used in Recommender Systems over different datasets
+
 # TP3 : Coming Soon
 
 ## Overview
