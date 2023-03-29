@@ -38,9 +38,12 @@ In this lab, you will be performing Sentiment Analysis using two types of Neural
 
 In this lab, you will be explorating some technics used in Recommender Systems over different datasets
 
-# TP3 : Coming Soon
+# [TP3 : Language Models](TP3)
 
 ## Overview
+In this lab, you will be creating a Language Model using two methods : 
+- N-grams
+- Feed Forward Networks
 
 # TP4 : Coming Soon
 
