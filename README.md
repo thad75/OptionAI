@@ -10,48 +10,56 @@
 
 Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts. Don't hesitate to star the repository.
 
-# [TP1 : Introduction to AI ](TP1)
+# Labs
 
-## Overview
+## [TP1 : Introduction to AI ](TP1)
+
+### Overview
 
 In this lab, you will be introduced to the world of Deep Learning with the exploration of two techniques: 
   - Training an inverting Neuron 
   - Neural Style Transfer. 
   
-# [TDm1 : Spotify Python API Exploration](TDm/NLP)
 
-## Overview
 
-In this lab, you will be explorating the Spotify Python API: Spotipy
+## [TP2 : Sentiment Analysis](TP2)
 
-# [TP2 : Sentiment Analysis](TP2)
-
-## Overview
+### Overview
 
 In this lab, you will be performing Sentiment Analysis using two types of Neural Nets:
 - Feed Forward Networks
 - Convolutional Neural Networks
 
-# [TDm2 : Recommendation System: an Introduction](TDm/SR)
 
-## Overview
+## [TP3 : Language Models](TP3)
 
-In this lab, you will be explorating some technics used in Recommender Systems over different datasets
-
-# [TP3 : Language Models](TP3)
-
-## Overview
+### Overview
 In this lab, you will be creating a Language Model using two methods : 
 - N-grams
 - Feed Forward Networks
 
-# TP4 : Coming Soon
+## TP4 : Coming Soon
 
-## Overview
+### Overview
 
-# TP5 : Coming Soon
+## TP5 : Coming Soon
 
-## Overview
+### Overview
+
+
+# Hands-On
+
+## [TDm1 : Spotify Python API Exploration](TDm/NLP)
+
+### Overview
+
+In this lab, you will be explorating the Spotify Python API: Spotipy
+## [TDm2 : Recommendation System: an Introduction](TDm/SR)
+
+### Overview
+
+In this lab, you will be explorating some technics used in Recommender Systems over different datasets
+
 
 # Instructions
 
