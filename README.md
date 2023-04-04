@@ -38,9 +38,10 @@ In this lab, you will be creating a Language Model using two methods :
 - N-grams
 - Feed Forward Networks
 
-## TP4 : Coming Soon
+## TP4 : Recommending a Spotify Playlist
 
 ### Overview
+In this lab, you will be creating a Deep RecSys Model performing recommendation on Spotify Data 
 
 ## TP5 : Coming Soon
 
