@@ -43,7 +43,7 @@ In this lab, you will be creating a Language Model using two methods :
 ### Overview
 In this lab, you will be creating a Deep RecSys Model performing recommendation on Spotify Data 
 
-Slides : Recommendation Part 1(https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)
+Slides : [Recommendation Part 1](https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)
 ## TP5 : Coming Soon
 
 ### Overview
