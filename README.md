@@ -3,7 +3,7 @@
 </h1>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/github/license/thad75/OptionAI" alt="License Badge"/>
+  <img src="https://img.shields.io/github/license/thad75/OptionAI"  alt="License Badge"/>
   <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>
 </div> 
 
