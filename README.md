@@ -44,10 +44,11 @@ In this lab, you will be creating a Language Model using two methods :
 In this lab, you will be creating a Deep RecSys Model performing recommendation on Spotify Data 
 
 Slides : [Recommendation Part 1](https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)
-## TP5 : Coming Soon
+## [TP5 : Graph Neural Network for Recommendation](TP5)
 
 ### Overview
 
+In this lab, you will be creating a Deep Graph RecSys Model performing recommendation on MovieLens Dataset
 
 # Hands-On
 
