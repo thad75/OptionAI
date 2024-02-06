@@ -22,48 +22,6 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   
 
 
-## [TP2 : Sentiment Analysis](TP2)
-
-### Overview
-
-In this lab, you will be performing Sentiment Analysis using two types of Neural Nets:
-- Feed Forward Networks
-- Convolutional Neural Networks
-
-
-## [TP3 : Language Models](TP3)
-
-### Overview
-In this lab, you will be creating a Language Model using two methods : 
-- N-grams
-- Feed Forward Networks
-
-## [TP4 : Recommending a Spotify Playlist](TP4)
-
-### Overview
-In this lab, you will be creating a Deep RecSys Model performing recommendation on Spotify Data 
-
-Slides : [Recommendation Part 1](https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)
-## [TP5 : Graph Neural Network for Recommendation](TP5)
-
-### Overview
-
-In this lab, you will be creating a Deep Graph RecSys Model performing recommendation on MovieLens Dataset
-
-# Hands-On
-
-## [TDm1 : Spotify Python API Exploration](TDm/NLP)
-
-### Overview
-
-In this lab, you will be explorating the Spotify Python API: Spotipy
-## [TDm2 : Recommendation System: an Introduction](TDm/SR)
-
-### Overview
-
-In this lab, you will be explorating some technics used in Recommender Systems over different datasets
-
-
 # Instructions
 
 - In order to open any .ipynb notebook, change the url by replacing github to githubtocolab
