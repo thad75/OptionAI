@@ -23,7 +23,7 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
 ## [Project : Introduction to AI ](Project)
 
 In this project, you will be introduced to the world of industrial Deep Learning:
-  - Creating your ML Stack
+  - Creating your ML Stack to perform Summarization
   - Creating a RAG Pipeline
 
 
