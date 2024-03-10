@@ -21,13 +21,19 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   - Neural Style Transfer. 
   
 
-## [TP2 : Language Models ](TP1)2
+## [TP2 : Language Models ](TP2)
 
 ### Overview
 
 In this lab, you will be introduced to the world of NLP with the exploration of two techniques: 
   - N-gram
   - FFLM 
+
+## [TP3 : BERTs ](TP3)
+
+### Overview
+
+In this lab, you will be introduced to the world of BERT with the exploration of three different tasks
 
 # Instructions
 
