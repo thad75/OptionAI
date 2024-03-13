@@ -20,6 +20,12 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   - Training an inverting Neuron 
   - Neural Style Transfer. 
   
+## [Project : Introduction to AI ](Project)
+
+In this project, you will be introduced to the world of industrial Deep Learning:
+  - Creating your ML Stack to perform Summarization
+  - Creating a RAG Pipeline
+
 
 ## [TP2 : Language Models ](TP2)
 
