@@ -35,11 +35,6 @@ In this lab, you will be introduced to the world of NLP with the exploration of 
   - N-gram
   - FFLM 
 
-## [TP3 : BERTs ](TP3)
-
-### Overview
-
-In this lab, you will be introduced to the world of BERT with the exploration of three different tasks
 
 # Instructions
 
