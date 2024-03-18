@@ -26,6 +26,8 @@ In this project, you will be introduced to the world of industrial Deep Learning
   - Creating your ML Stack to perform Summarization
   - Creating a RAG Pipeline
 
+[Class Slides](https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EaPTqQOUtaZJo5YvrGqwxhsBIdRkexs-vDgIhaD7qQwp_g?e=ByaYes)
+
 
 ## [TP2 : Language Models ](TP2)
 
