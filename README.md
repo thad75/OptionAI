@@ -20,13 +20,6 @@ In this lab, you will be introduced to the world of Deep Learning with the explo
   - Training an inverting Neuron 
   - Neural Style Transfer. 
   
-## [Project : How to become an AI Engineer ](Project)
-
-In this project, you will be introduced to the world of industrial Deep Learning:
-  - Creating your ML Stack to perform Summarization
-  - Creating a RAG Pipeline
-
-[Class Slides](https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EaPTqQOUtaZJo5YvrGqwxhsBIdRkexs-vDgIhaD7qQwp_g?e=ByaYes)
 
 
 ## [TP2 : Language Models ](TP2)
@@ -37,6 +30,13 @@ In this lab, you will be introduced to the world of NLP with the exploration of 
   - N-gram
   - FFLM 
 
+## [Project : How to become an AI Engineer ](Project)
+
+In this project, you will be introduced to the world of industrial Deep Learning:
+  - Creating your ML Stack to perform Summarization
+  - Creating a RAG Pipeline
+
+[Class Slides](https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EaPTqQOUtaZJo5YvrGqwxhsBIdRkexs-vDgIhaD7qQwp_g?e=ByaYes)
 
 # Instructions
 
