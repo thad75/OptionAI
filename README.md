@@ -12,35 +12,4 @@ Welcome to the AI Labs repository. This repository contains all labs and project
 
 # Labs
 
-## [TP1 : Introduction to AI ](TP1)
-
-### Overview
-
-In this lab, you will be introduced to the world of Deep Learning with the exploration of two techniques: 
-  - Training an inverting Neuron 
-  - Neural Style Transfer. 
-  
-
-
-## [TP2 : Language Models ](TP2)
-
-### Overview
-
-In this lab, you will be introduced to the world of NLP with the exploration of two techniques: 
-  - N-gram
-  - FFLM 
-
-## [Project : How to become an AI Engineer ](Project)
-
-In this project, you will be introduced to the world of industrial Deep Learning:
-  - Creating your ML Stack to perform Summarization
-  - Creating a RAG Pipeline
-
-[Class Slides](https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EaPTqQOUtaZJo5YvrGqwxhsBIdRkexs-vDgIhaD7qQwp_g?e=ByaYes)
-
-# Instructions
-
-- In order to open any .ipynb notebook, change the url by replacing github to githubtocolab
-- Complete the exercises and experiments with the provided code to gain a better understanding of AI and the techniques covered in the lab.
-- Don't forget to activate a GPU on Google Colab and  to save your notebook in your Drive Repo.
-- You must complete the preparation before coming to the lab.
+Links will be sent upon request. Send me or Antoine a private message 
