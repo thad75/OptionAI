@@ -16,7 +16,10 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
 
-
+    - name: Allow PowerShell script execution
+      shell: pwsh
+      run: |
+        Set-ExecutionPolicy Bypass -Scope Process -Force
 
     - name: Install dependencies
       shell: cmd
@@ -30,4 +33,4 @@ jobs:
         for /r %%F in (*.ipynb) do nbstripout "%%F"
         git add *.ipynb
         git commit -m "Clean notebooks" || echo "No changes to commit"
-        git push
+        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/thad75/OptionAI.git
