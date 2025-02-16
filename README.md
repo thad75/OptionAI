@@ -1,72 +1,93 @@
-<h1   align="center">
-2a ENSEA : Option IA 
-</h1>
+# 🚀 AI Labs – M1 Student (Option IA)  
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/github/license/thad75/OptionAI"  alt="License Badge"/>
-  <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>
-</div> 
+<div align="center">  
+  <img src="https://img.shields.io/github/license/thad75/OptionAI" alt="License Badge"/>  
+  <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>  
+</div>  
 
+Welcome to the AI Labs repository! This collection of hands-on labs and projects is designed to help ENSEA 2A students explore and apply various AI techniques. Each lab provides a structured learning experience, focusing on both foundational and advanced AI concepts.  
 
-Welcome to the AI Labs repository. This repository contains all labs and projects related to artificial intelligence that ENSEA 2a students can use to learn to apply various AI techniques and concepts. Don't hesitate to star the repository.
+---
 
-# Labs
+## 🌟 Key Features  
 
-## [TP1 : Introduction to AI ](TP1)
+- **Hands-On Learning** – Apply AI techniques through structured, practical labs.  
+- **Google Colab Integration** – Run all labs in Google Colab with GPU acceleration.  
+- **Diverse Topics** – Covers everything from sentiment analysis to graph neural networks.  
+- **Open Source** – Licensed under MIT—feel free to use, modify, and contribute!  
 
-### Overview
+---
 
-In this lab, you will be introduced to the world of Deep Learning with the exploration of two techniques: 
-  - Training an inverting Neuron 
-  - Neural Style Transfer. 
-  
+## 📂 Labs  
 
+### 🔹 [TP1: Introduction to AI](TP1)  
+Explore Deep Learning fundamentals with two techniques:  
+- Training an Inverting Neuron  
+- Neural Style Transfer  
 
-## [TP2 : Sentiment Analysis](TP2)
+### 🔹 [TP2: Sentiment Analysis](TP2)  
+Perform sentiment analysis using two types of neural networks:  
+- Feed Forward Networks  
+- Convolutional Neural Networks  
 
-### Overview
+### 🔹 [TP3: Language Models](TP3)  
+Build a language model using:  
+- N-grams  
+- Feed Forward Networks  
 
-In this lab, you will be performing Sentiment Analysis using two types of Neural Nets:
-- Feed Forward Networks
-- Convolutional Neural Networks
+### 🔹 [TP4: Spotify Playlist Recommendation](TP4)  
+Develop a Deep RecSys model to recommend Spotify playlists.  
+📜 **Slides**: [Recommendation Part 1](https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)  
 
+### 🔹 [TP5: Graph Neural Networks for Recommendation](TP5)  
+Build a deep Graph RecSys model for recommendations using the MovieLens dataset.  
 
-## [TP3 : Language Models](TP3)
+---
 
-### Overview
-In this lab, you will be creating a Language Model using two methods : 
-- N-grams
-- Feed Forward Networks
+## 🛠️ Hands-On Sessions  
 
-## [TP4 : Recommending a Spotify Playlist](TP4)
+### 🔹 [TDm1: Spotify Python API Exploration](TDm/NLP)  
+Learn to use **Spotipy**, the Spotify Python API, for music data exploration.  
 
-### Overview
-In this lab, you will be creating a Deep RecSys Model performing recommendation on Spotify Data 
+### 🔹 [TDm2: Introduction to Recommendation Systems](TDm/SR)  
+Explore key techniques used in recommender systems across various datasets.  
 
-Slides : [Recommendation Part 1](https://enseafr-my.sharepoint.com/:b:/g/personal/tharsan_senthivel_ensea_fr/Ea5E9upOjz5EmHoltNpNw_4BOtsVz1ylL5HbUr1q2csgsA?e=yWhDy8)
-## [TP5 : Graph Neural Network for Recommendation](TP5)
+---
 
-### Overview
+## 🛠️ Hands-On Projects  
 
-In this lab, you will be creating a Deep Graph RecSys Model performing recommendation on MovieLens Dataset
+### 🔹 [Project 1: ML Stack](Project)  
+Deploy a text summarization model using **Gradio**, **Hugging Face**, and **Weights & Biases** to streamline experimentation and monitoring.  
 
-# Hands-On
+### 🔹 [Project 2: Retrieval-Augmented Generation (RAG)](Project)  
+Build a **Retrieval-Augmented Generation (RAG) system** from scratch—design the full pipeline, from document retrieval to response generation.  
 
-## [TDm1 : Spotify Python API Exploration](TDm/NLP)
+---
 
-### Overview
+Let me know if you'd like any refinements! 🚀
 
-In this lab, you will be explorating the Spotify Python API: Spotipy
-## [TDm2 : Recommendation System: an Introduction](TDm/SR)
+## 🚀 How to Use  
 
-### Overview
+1. **Open in Google Colab** – Replace `github.com` with `githubtocolab.com` in the URL to launch notebooks.  
+2. **Enable GPU** – Accelerate training by enabling GPU (`Runtime` > `Change runtime type` > `Hardware accelerator` > `GPU`).  
+3. **Save Your Work** – Copy notebooks to your Google Drive for future reference.  
+4. **Complete Preparations** – Ensure all pre-lab exercises are done before attending lab sessions.  
 
-In this lab, you will be explorating some technics used in Recommender Systems over different datasets
+---
 
+## 📜 License  
 
-# Instructions
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it while giving proper credit. Contributions are always welcome!  
 
-- In order to open any .ipynb notebook, change the url by replacing github to githubtocolab
-- Complete the exercises and experiments with the provided code to gain a better understanding of AI and the techniques covered in the lab.
-- Don't forget to activate a GPU on Google Colab and  to save your notebook in your Drive Repo.
-- You must complete the preparation before coming to the lab.
+---
+
+Happy coding! 🚀  
+
+---
+
+### Key Improvements:  
+- Matched the format of your previous README for consistency.  
+- Improved readability and flow with bullet points and concise descriptions.  
+- Standardized section titles for clarity.  
+- Added a structured **How to Use** section.  
+
