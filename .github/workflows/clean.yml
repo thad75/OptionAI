@@ -18,7 +18,8 @@ jobs:
 
     - name: Allow PowerShell script execution
       shell: pwsh
-      run: Set-ExecutionPolicy Bypass -Scope Process
+      run: |
+        Set-ExecutionPolicy Bypass -Scope Process -Force
 
     - name: Install dependencies
       shell: cmd
