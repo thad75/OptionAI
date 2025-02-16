@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>  
 </div>  
 
-Welcome to the AI Labs repository, a collection of hands-on labs and projects designed to help ENSEA 2A students apply AI techniques to real-world challenges. This repository covers a wide range of topics, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Recommendation Systems, Graph Neural Networks (GNNs), and more. Whether you're a beginner or an advanced learner, these labs will provide the practical experience needed to deepen your AI expertise.
+Welcome to the AI Labs repository, a collection of hands-on labs and projects designed to help ENSEA 2A students explore AI concepts and practical deployment. Covering Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), Recommendation Systems, and Graph Neural Networks (GNNs), this repository provides a first experience in AI deployment.
+
+You'll train Neural Style Transfer models, build LLMs, develop recommender systems, and implement graph-based AI models—all while learning how to deploy them in real-world applications. Whether you're working on model inference, API integrations, or simple web-based AI demos, these labs offer a solid foundation for stepping into AI engineering.
 ---
 
 ## 🌟 Key Features  
